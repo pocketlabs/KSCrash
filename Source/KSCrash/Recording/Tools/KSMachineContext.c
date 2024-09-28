@@ -33,6 +33,8 @@
 
 #include <mach/mach.h>
 
+#include <sys/_types/_ucontext64.h>
+
 #if __has_include(<sys/_types/_ucontext64.h>)
 #include <sys/_types/_ucontext64.h>
 #endif

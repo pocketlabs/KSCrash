@@ -42,6 +42,8 @@
 #include <typeinfo>
 #include <exception>
 
+#include <exception>
+
 #define STACKTRACE_BUFFER_LENGTH 30
 #define DESCRIPTION_BUFFER_LENGTH 1000
 
